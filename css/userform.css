@@ -1,0 +1,14 @@
+.userform{
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    padding: 10px 50px;
+    gap: 10px;
+    background-color: #cccc22;
+}
+#uinput{
+    padding: 5px 10px;
+}
+#btnCheck{
+    padding: 5px 10px;
+}

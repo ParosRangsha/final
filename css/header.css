@@ -1,0 +1,22 @@
+header{
+    padding: 10px 50px;
+    display: flex;
+    align-items: center;
+    background-color: #dddd22;
+}
+header .logo{
+    width: 20%;
+}
+header .menu{
+    width: 70%;
+    text-align: center;
+}
+#menulist{
+    width: 100%;
+    display: flex;
+}
+#menulist li a{
+    padding: 10px 15px;
+    display: inline-block;
+}
+
